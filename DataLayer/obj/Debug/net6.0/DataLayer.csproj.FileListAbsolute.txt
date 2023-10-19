@@ -1,0 +1,12 @@
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\bin\Debug\net6.0\DataLayer.dll
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\obj\Debug\net6.0\DataLayer.dll
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+D:\kpi\2 KURS\.NET labs\Lab_5\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll

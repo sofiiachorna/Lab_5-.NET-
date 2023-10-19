@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbsBwVQVJdYCXlNtTCFNjUfA8PVcdy8L7p2MMjx32ljhtzmHavmrxNgySmFSGoH6zDykbzapdLTVShBYenAEBA==",
+  "success": true,
+  "projectFilePath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_5\\ProcessingLayer\\ProcessingLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sophia\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Sophia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sophia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
